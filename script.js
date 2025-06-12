@@ -1,7 +1,7 @@
   <!-- JavaScript: mesaj göstər -->
   <script>
     function gosterMesaj() {
-      alert("✨ Sənə salam deyirəm, gözəl ruh! ✨");
+      alert("✨ Salam xoş gəlmisən ✨");
     }
   </script>
 </body>
