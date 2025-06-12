@@ -1,20 +1,13 @@
-body {
-  background-color: #f2f2f2;
-  font-family: Arial, sans-serif;
-  text-align: center;
-  padding-top: 100px;
-}
+  <!-- CSS faylı -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hoş gəldin, gözəl insan 🌟</h1>
 
-button {
-  background-color: #007bff;
-  color: white;
-  border: none;
-  padding: 10px 20px;
-  font-size: 16px;
-  border-radius: 5px;
-  cursor: pointer;
-}
+  <!-- Düymə -->
+  <button onclick="gosterMesaj()">Bana yavaşca toxun</button>
 
-button:hover {
-  background-color: #0056b3;
-}
+  <!-- Konsol xəbərdarlığı -->
+  <script>
+    console.log("%cDiqqət! Konsolda nəsə yazmaq təhlükəlidir!", "color: red; font-size: 18px;");
+  </script
